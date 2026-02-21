@@ -1,0 +1,134 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "C:/Users/Crypt/Desktop/Projet Jeu Python/Tilesets/Beach_Tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Crypt/Desktop/Projet Jeu Python/Tilesets/Bridge_Wood.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Crypt/Desktop/Projet Jeu Python/Tilesets/Cliff_Tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Crypt/Desktop/Projet Jeu Python/Tilesets/FarmLand_Tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Crypt/Desktop/Projet Jeu Python/Tilesets/Outdoor_Decor_Free.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Crypt/Desktop/Projet Jeu Python/Tilesets/Path_Tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Crypt/Desktop/Projet Jeu Python/Tilesets/Water_Tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Crypt/Desktop/Projet Jeu Python/Tilesets/farm bridges free.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Crypt/Desktop/Projet Jeu Python/Tilesets/farm objects free.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Crypt/Desktop/Projet Jeu Python/Tilesets/objects_demo.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Crypt/Desktop/Projet Jeu Python/Tilesets/premade_buildings_demo.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Beach_Tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Chicken.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Cliff_Tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/FarmLand_Tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Grass_Middle.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Path_Middle.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Path_Tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Tiles 0.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Tiles/Water_Tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Water_Middle.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Water_Tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map - Jeu.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1860,
+                "y": 1436
+            }
+        },
+        "world.tmx": {
+            "scale": 0.03125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 9440,
+                "y": 6224
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/Crypt/Desktop/Projet Jeu Python/Asset/objects&items",
+    "openFiles": [
+    ],
+    "project": "Map.tiled-project",
+    "recentFiles": [
+        "world.tmx",
+        "C:/Users/Crypt/Desktop/Projet Jeu Python/Tilesets/farm objects free.tsx",
+        "C:/Users/Crypt/Desktop/Projet Jeu Python/Tilesets/Outdoor_Decor_Free.tsx",
+        "C:/Users/Crypt/Desktop/Projet Jeu Python/Tilesets/Bridge_Wood.tsx",
+        "C:/Users/Crypt/Desktop/Projet Jeu Python/Tilesets/objects_demo.tsx",
+        "C:/Users/Crypt/Desktop/Projet Jeu Python/Tilesets/premade_buildings_demo.tsx",
+        "C:/Users/Crypt/Desktop/Projet Jeu Python/Tilesets/farm bridges free.tsx",
+        "C:/Users/Crypt/Desktop/Projet Jeu Python/Tilesets/Water_Tile.tsx",
+        "C:/Users/Crypt/Desktop/Projet Jeu Python/Tilesets/Path_Tile.tsx",
+        "C:/Users/Crypt/Desktop/Projet Jeu Python/Tilesets/FarmLand_Tile.tsx",
+        "C:/Users/Crypt/Desktop/Projet Jeu Python/Tilesets/Cliff_Tile.tsx",
+        "C:/Users/Crypt/Desktop/Projet Jeu Python/Tilesets/Beach_Tile.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}

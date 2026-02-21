@@ -1,0 +1,150 @@
+{
+    "activeFile": "Map - Jeu.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        "Jeu de Tuiles - Tiled/Beach_Tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Chicken.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Cliff_Tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/FarmLand_Tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Grass_Middle.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Path_Middle.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Path_Tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Tiles 0.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Tiles/Beach_Tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Tiles/Bridge_Wood.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Tiles/Bridge_Wood_1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Tiles/Cliff_Tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Tiles/Cloud Tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Tiles/FarmLand_Tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Tiles/Grass_Middle.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Tiles/Outdoor_Decor_Free.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Tiles/Path_Middle.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Tiles/Path_Tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Tiles/Water_Middle.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Tiles/Water_Tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Tiles/objects_demo.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Tiles/premade_buildings_demo.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Water_Middle.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Jeu de Tuiles - Tiled/Water_Tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map - Jeu.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1486.3636363636365,
+                "y": 300
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/Crypt/Desktop/Projet Jeu Python/Asset/Pixel Lands Village Demo",
+    "openFiles": [
+        "Map - Jeu.tmx",
+        "Jeu de Tuiles - Tiled/Tiles/Beach_Tile.tsx",
+        "Jeu de Tuiles - Tiled/Tiles/Cliff_Tile.tsx",
+        "Jeu de Tuiles - Tiled/Tiles/FarmLand_Tile.tsx",
+        "Jeu de Tuiles - Tiled/Tiles/Grass_Middle.tsx",
+        "Jeu de Tuiles - Tiled/Tiles/Path_Middle.tsx",
+        "Jeu de Tuiles - Tiled/Tiles/Path_Tile.tsx",
+        "Jeu de Tuiles - Tiled/Tiles/Water_Middle.tsx",
+        "Jeu de Tuiles - Tiled/Tiles/Water_Tile.tsx",
+        "Jeu de Tuiles - Tiled/Tiles/Cloud Tileset.tsx",
+        "Jeu de Tuiles - Tiled/Tiles/Outdoor_Decor_Free.tsx",
+        "Jeu de Tuiles - Tiled/Tiles/Bridge_Wood.tsx",
+        "Jeu de Tuiles - Tiled/Tiles/premade_buildings_demo.tsx",
+        "Jeu de Tuiles - Tiled/Tiles/objects_demo.tsx"
+    ],
+    "project": "",
+    "recentFiles": [
+        "Jeu de Tuiles - Tiled/Tiles/objects_demo.tsx",
+        "Jeu de Tuiles - Tiled/Tiles/premade_buildings_demo.tsx",
+        "Jeu de Tuiles - Tiled/Tiles/Bridge_Wood.tsx",
+        "Jeu de Tuiles - Tiled/Tiles/Outdoor_Decor_Free.tsx",
+        "Jeu de Tuiles - Tiled/Tiles/Cloud Tileset.tsx",
+        "Jeu de Tuiles - Tiled/Tiles/Water_Tile.tsx",
+        "Jeu de Tuiles - Tiled/Tiles/Water_Middle.tsx",
+        "Jeu de Tuiles - Tiled/Tiles/Path_Tile.tsx",
+        "Jeu de Tuiles - Tiled/Tiles/Path_Middle.tsx",
+        "Jeu de Tuiles - Tiled/Tiles/Grass_Middle.tsx",
+        "Jeu de Tuiles - Tiled/Tiles/FarmLand_Tile.tsx",
+        "Jeu de Tuiles - Tiled/Tiles/Cliff_Tile.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
