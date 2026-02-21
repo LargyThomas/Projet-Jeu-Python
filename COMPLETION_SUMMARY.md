@@ -78,35 +78,6 @@ Nettoyer, finaliser et documenter le projet RPG pour qu'il soit **production-rea
 
 ---
 
-## 📈 STATISTIQUES
-
-### Code
-```
-Fichiers Python:        34 (dont 5 systèmes clés)
-Fichiers supprimés:     7 (cleanup)
-Fichiers créés:         5 système + 5 docs = 10
-Lignes système ajoutées: 265 (sauvegarde 113 + quêtes 152)
-Lignes principal modifiées: 50+
-Emojis remplacés:       9
-```
-
-### Documentation
-```
-Fichiers .md créés:     5 (nouveaux)
-Fichiers .md total:     7
-Lignes documentation:   1000+
-Couverture:             Complète (3 guides)
-```
-
-### Tests
-```
-Imports Python:         ✅ SUCCESS
-Encoding UTF-8:         ✅ FIXED
-Module verification:    ✅ PASS
-```
-
----
-
 ## 🎮 FEATURES ACTUELLES
 
 ### Gameplay
@@ -123,12 +94,6 @@ Module verification:    ✅ PASS
 - ✅ ATK/DEF stats
 - ✅ Inventaire complet
 
-### Système de Quêtes
-- ✅ 3 quêtes
-- ✅ Progression tracking
-- ✅ Completion auto
-- ✅ Objectifs multi
-
 ### Système de Sauvegarde
 - ✅ Auto-load startup
 - ✅ CTRL+S save
@@ -144,7 +109,6 @@ Module verification:    ✅ PASS
 ### Interface
 - ✅ HUD stats
 - ✅ Inventaire (TAB)
-- ✅ Menu quêtes (P)
 - ✅ Combat UI (4 buttons)
 - ✅ Notifications
 
